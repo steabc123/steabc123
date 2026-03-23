@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steabc123&show_icons=true&theme=merko&activity=1)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steabc123&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steabc123&theme=merko)
+![Metrics](https://metrics.lecoq.io/steabc123?template=classic&activity=1&activity.limit=4&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=issue.comment%2Cissue.opened%2Cpr.opened%2Cpr.reviewed%2Crelease.published%2Crepo.commit&activity.load=300)
