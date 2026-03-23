@@ -16,4 +16,8 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steabc123&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steabc123&theme=merko)
-![Metrics](https://metrics.lecoq.io/steabc123?template=classic&activity=1&activity.limit=4&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=issue.comment%2Cissue.opened%2Cpr.opened%2Cpr.reviewed%2Crelease.published%2Crepo.commit&activity.load=300)
+<p align="center">
+    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=steabc123&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
+</p>
+[//]: # (![Metrics]&#40;https://metrics.lecoq.io/steabc123?template=classic&activity=1&activity.limit=4&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=issue.comment%2Cissue.opened%2Cpr.opened%2Cpr.reviewed%2Crelease.published%2Crepo.commit&activity.load=300&#41;)
