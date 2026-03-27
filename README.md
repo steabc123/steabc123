@@ -20,10 +20,4 @@ Here are some ideas to get you started:
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=steabc123&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
 </p>
-name: Repositories traffic
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.traffic.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: repositories
-  plugin_traffic: yes
+
