@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Metrics](/github-metrics.svg)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steabc123&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.shion.dev/api?username=steabc123&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steabc123&theme=merko)
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
