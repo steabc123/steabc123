@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 ![Metrics](/github-metrics.svg)
 ![Anurag's GitHub stats](https://github-readme-stats.shion.dev/api?username=steabc123&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steabc123&theme=merko)
+
+![Top Languages](https://ghstats.dev/api/langs?username=steabc123&layout=bar)
+![Top Languages](https://ghstats.dev/api/langs?username=steabc123&layout=stacked)
+
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=steabc123&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
