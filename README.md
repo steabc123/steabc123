@@ -28,5 +28,16 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="left">Skills</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="32" alt="PHP" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" height="32" alt="Python" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32" alt="TypeScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" height="32" alt="Go" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="32" alt="MongoDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" height="32" alt="MariaDB" style="margin-right: 4px"><img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" height="32" alt="Redis" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Laravel-F05032?logo=laravel&logoColor=white" height="32" alt="Laravel" style="margin-right: 4px"> <img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white" height="32" alt="Laravel" style="margin-right: 4px">  </div>
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
+<img src="https://img.shields.io/badge/github-repo-blue?logo=github" height="32" alt="github-repo" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" height="32" alt="Python" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/JavaScript-3178C6?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px"> 
+<img src="https://img.shields.io/badge/C/C++-00ADD8?logo=c&logoColor=white" height="32" alt="C/C++" style="margin-right: 4px"> 
+<img src="https://img.shields.io/badge/Anaconda-4EA94B?logo=Anaconda&logoColor=white" height="32" alt="Anaconda" style="margin-right: 4px"> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px"> 
+<img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" height="32" alt="MariaDB" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/Tensorflow-FFD700?logo=Tensorflow&logoColor" height="32" alt="Tensorflow" style="margin-right: 4px"> 
+<img src="https://img.shields.io/badge/Pytorch-F05032?logo=pytorch&logoColor=white" height="32" alt="Pytorch" style="margin-right: 4px"> 
+<img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white" height="32" alt="Laravel" style="margin-right: 4px">  
+</div>
 
