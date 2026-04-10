@@ -38,6 +38,14 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" height="32" alt="MariaDB" style="margin-right: 4px">
 <img src="https://img.shields.io/badge/Tensorflow-FFD700?logo=Tensorflow&logoColor" height="32" alt="Tensorflow" style="margin-right: 4px"> 
 <img src="https://img.shields.io/badge/Pytorch-F05032?logo=pytorch&logoColor=white" height="32" alt="Pytorch" style="margin-right: 4px"> 
-<img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white" height="32" alt="Laravel" style="margin-right: 4px">  
+<img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white" height="32" alt="FastAPI" style="margin-right: 4px">  
+<img src="https://img.shields.io/badge/CSS-009485?logo=css&logoColor=white" height="32" alt="css" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/HTML-E34F26?logo=html&logoColor=white" height="32" alt="html" style="margin-right: 4px"> 
+<img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" height="32" alt="Django" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white" height="32" alt="Arduino" style="margin-right: 4px"> 
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberry-pi&logoColor=white" height="32" alt="Raspberry Pi" style="margin-right: 4px"> 
+<img src="https://img.shields.io/badge/Embedded_C-00599C?logo=c&logoColor=white" height="32" alt="Embedded C" style="margin-right: 4px"> 
+<img src="https://img.shields.io/badge/RTOS-000000?logo=linux&logoColor=white" height="32" alt="RTOS" style="margin-right: 4px"> 
+<img src="https://img.shields.io/badge/IoT-009688?logo=internet-explorer&logoColor=white" height="32" alt="IoT" style="margin-right: 4px"> 
 </div>
 
