@@ -59,3 +59,5 @@ Here are some ideas to get you started:
 
 </div>
 
+![Stone Badge](https://stone.professorlee.work/api/stone/steabc123/steabc123)
+
