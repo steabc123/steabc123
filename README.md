@@ -46,6 +46,16 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberry-pi&logoColor=white" height="32" alt="Raspberry Pi" style="margin-right: 4px"> 
 <img src="https://img.shields.io/badge/Embedded_C-00599C?logo=c&logoColor=white" height="32" alt="Embedded C" style="margin-right: 4px"> 
 <img src="https://img.shields.io/badge/RTOS-000000?logo=linux&logoColor=white" height="32" alt="RTOS" style="margin-right: 4px"> 
-<img src="https://img.shields.io/badge/IoT-009688?logo=internet-explorer&logoColor=white" height="32" alt="IoT" style="margin-right: 4px"> 
+<img src="https://img.shields.io/badge/IoT-009688?logo=internet-explorer&logoColor=white" height="32" alt="IoT" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/Computer%20Vision-FF6F00?logo=opencv&logoColor=white" height="32" alt="Computer Vision" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/Deep%20Learning-DC143C?logo=nvidia&logoColor=white" height="32" alt="Deep Learning" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/Machine%20Learning-FFD700?logo=machine-learning&logoColor=white" height="32" alt="Machine Learning" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/OpenCV-5CACEE?logo=opencv&logoColor=white" height="32" alt="OpenCV" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white" height="32" alt="Numpy" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" height="32" alt="Pandas" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/Matplotlib-F05032?logo=matplotlib&logoColor=white" height="32" alt="Matplotlib" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/YOLO-0078D4?logo=yolo&logoColor=white" height="32" alt="YOLO" style="margin-right: 4px"> 
+
+
 </div>
 
