@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" height="32" alt="Pandas" style="margin-right: 4px">
 <img src="https://img.shields.io/badge/Matplotlib-F05032?logo=matplotlib&logoColor=white" height="32" alt="Matplotlib" style="margin-right: 4px">
 <img src="https://img.shields.io/badge/YOLO-0078D4?logo=yolo&logoColor=white" height="32" alt="YOLO" style="margin-right: 4px"> 
-
+<img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" height="32" alt="Jupyter" style="margin-right: 4px"> 
 
 </div>
 
