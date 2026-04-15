@@ -1,0 +1,41 @@
+name: Generate Snake Animation
+on:
+  # 每24小时自动运行一次
+  schedule:
+    - cron: "0 */24 * * *"
+
+  # 允许手动触发
+  workflow_dispatch:
+
+  # 在主分支推送时运行
+  push:
+    branches:
+      - main
+      
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    
+    steps:
+      # 从 GitHub 用户的贡献图生成贪吃蛇游戏动画
+      - name: Generate snake animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: steabc123
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      # 将生成的 SVG 文件推送到 output 分支
+      - name: Push snake animation to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

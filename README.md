@@ -1,3 +1,5 @@
+![Snake Animation](https://raw.githubusercontent.com/steabc123/steabc123/output/github-contribution-grid-snake.svg)
+
 ## Добро пожаловать 👋
 <!--
 **steabc123/steabc123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
