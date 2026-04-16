@@ -18,6 +18,8 @@ jobs:
     timeout-minutes: 10
     permissions:
       contents: write
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     
     steps:
       # 从 GitHub 用户的贡献图生成贪吃蛇游戏动画
