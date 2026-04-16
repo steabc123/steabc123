@@ -1,8 +1,8 @@
 name: Generate Snake Animation
 on:
-  # 每24小时自动运行一次
+  # 每天北京时间 8:00 自动运行一次
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 0 * * *"
 
   # 允许手动触发
   workflow_dispatch:
