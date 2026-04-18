@@ -62,4 +62,5 @@ Here are some ideas to get you started:
 </div>
 
 ![Stone Badge](https://stone.professorlee.work/api/stone/steabc123/steabc123)
-
+<!-- Moe Counter -->
+<img src=" https://count.getloli.com/get/@steabc123?theme=Gelbooru" alt="Moe Counter" />
