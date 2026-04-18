@@ -61,8 +61,11 @@ Here are some ideas to get you started:
 
 </div>
 
-<!-- Moe Counter -->
-<img src=" https://count.getloli.com/get/@steabc123?theme=Gelbooru" alt="Moe Counter" />
+## 访问统计
+
+![Moe Counter](https://count.getloli.com/get/@steabc123?theme=Rule34)
+
+
 
 ![Stone Badge](https://stone.professorlee.work/api/stone/steabc123/steabc123)
 
