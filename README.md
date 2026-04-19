@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 ## 访问统计
 
 ![Moe Counter](https://count.getloli.com/get/@steabc123?theme=gelbooru)
-![Moe Counter cloudflare](https://moe-counter-cf.3489792800.workers.dev/get/@steabc123?theme=rule34)
+![Moe Counter cloudflare](https://moe-counter-cf.3489792800.workers.dev/dsrkafuu:demo?theme=rule34&length=7&render=pixelated&darkmode=auto)
 
 ![Stone Badge](https://stone.professorlee.work/api/stone/steabc123/steabc123)
 
