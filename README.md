@@ -63,9 +63,7 @@ Here are some ideas to get you started:
 
 ## 访问统计
 
-![Moe Counter](https://count.getloli.com/get/@steabc123?theme=Rule34)
-
-
+![Moe Counter](https://count.getloli.com/get/@steabc123?theme=gelbooru)
 
 ![Stone Badge](https://stone.professorlee.work/api/stone/steabc123/steabc123)
 
