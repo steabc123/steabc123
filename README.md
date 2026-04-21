@@ -64,6 +64,7 @@ Here are some ideas to get you started:
 ## 访问统计
 
 ![Moe Counter](https://count.getloli.com/get/@steabc123?theme=gelbooru)
+# cloudflare 版本自动更新
 ![Moe Counter cloudflare](
     https://moe-counter-cf.3489792800.workers.dev/steabc123:github?theme=rule34&length=7&render=pixelated&darkmode=auto
 )
