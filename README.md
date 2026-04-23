@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 ## 访问统计
 
-![Moe Counter](https://count.getloli.com/@steabc123?name=steabc123&theme=gelbooru&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto
+![Moe Counter](https://count.getloli.com/@steabc123?name=steabc123&theme=gelbooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto
 )
 ### Cloudflare 版本自动更新
 ![Moe Counter cloudflare](
