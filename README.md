@@ -71,4 +71,6 @@ Here are some ideas to get you started:
 )
 
 ![Stone Badge](https://stone.professorlee.work/api/stone/steabc123/steabc123)
+### Cloudflare Pages版本静态石墩子
+![Stone Badge](https://stonebadge.pages.dev/api/stone/steabc123/steabc123)
 
