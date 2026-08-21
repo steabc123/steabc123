@@ -70,7 +70,9 @@ Here are some ideas to get you started:
     https://moe-counter-cf.steabc123.workers.dev/steabc123:github?theme=rule34&length=7&render=pixelated&darkmode=auto
 )
 
-![Stone Badge](https://stone.professorlee.work/api/stone/steabc123/steabc123)
-### Cloudflare Pages版本静态石墩子
-![Stone Badge](https://stonebadge.pages.dev/api/stone/steabc123/steabc123)
+## 宠物石墩子
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<img src="https://stone.professorlee.work/api/stone/steabc123/steabc123" alt="Stone Badge">
+<img src="https://stonebadge.pages.dev/api/stone/steabc123/steabc123" alt="Stone Badge">
+</div>
 
