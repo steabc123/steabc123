@@ -65,10 +65,6 @@ Here are some ideas to get you started:
 
 ![Moe Counter](https://count.getloli.com/@steabc123?name=steabc123&theme=gelbooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto
 )
-### Cloudflare 版本自动更新
-![Moe Counter cloudflare](
-    https://moe-counter-cf.steabc123.workers.dev/steabc123:github?theme=rule34&length=7&render=pixelated&darkmode=auto
-)
 
 ## 宠物石墩子
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
